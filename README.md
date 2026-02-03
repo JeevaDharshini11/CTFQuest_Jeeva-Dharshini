@@ -1,7 +1,12 @@
 # CTFQuest_Jeeva-Dharshini
 ctf_challenge
+Challenge Name:The Key in the Frame
 
-The Key in the Frame
+Description:
+Don't just look at the image; look at the very end of its raw data.
+
+Hint:
+Once you find the flag, remember that one layer of encoding might not be enough to hide the truth.
 
 Steps to capture the flag:
 1.tail hello.png
